@@ -9,4 +9,5 @@ significant results at the state-level, county-level regressions show that a sin
 results in a statistically significant decrease in firearm mortality rates. We assert that these single 
 law changes target a specific subgroup of potential consumers who do not have legal alternatives 
 for firearm procurement. This targeting of the law results in less purchases of firearms which, in 
-turn, results in a marginal decrease in firearm related homicides at the county level.
+turn, results in a marginal decrease in firearm related homicides at the county level. Full paper and
+results can be found on my Linkedin page: https://www.linkedin.com/in/michael-v-nahhas/
